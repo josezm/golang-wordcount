@@ -1,0 +1,9 @@
+2.81 GB
+real    0m31.932s
+user    0m0.000s
+sys     0m0.015s
+
+5.63
+real    0m53.858s
+user    0m0.000s
+sys     0m0.015s
